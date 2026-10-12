@@ -23,9 +23,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/FeiZhuLulu/webFA"
-Repository = "https://github.com/FeiZhuLulu/webFA.git"
-Issues = "https://github.com/FeiZhuLulu/webFA/issues"
+Homepage = "https://github.com/Fei2411/webFA"
+Repository = "https://github.com/Fei2411/webFA.git"
+Issues = "https://github.com/Fei2411/webFA/issues"
 
 [project.optional-dependencies]
 dev = [

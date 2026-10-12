@@ -46,7 +46,7 @@ webfa login --url https://example.com/login
 Python 3.12+，本机 Chrome 或 Edge。
 
 ```powershell
-git clone https://github.com/FeiZhuLulu/webFA.git
+git clone https://github.com/Fei2411/webFA.git
 cd webFA
 python -m venv .venv
 .\.venv\Scripts\activate

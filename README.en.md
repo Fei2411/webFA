@@ -46,7 +46,7 @@ Different Profiles can run at the same time. One Profile has at most one writabl
 Python 3.12+, plus Chrome or Edge on the machine.
 
 ```powershell
-git clone https://github.com/FeiZhuLulu/webFA.git
+git clone https://github.com/Fei2411/webFA.git
 cd webFA
 python -m venv .venv
 .\.venv\Scripts\activate

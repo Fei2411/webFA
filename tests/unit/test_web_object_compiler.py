@@ -35,8 +35,8 @@ def _snapshot(*, login: bool = False, degraded: bool = False, loader_id: str = "
             "id": "el_link",
             "role": "link",
             "tag": "a",
-            "name": "FeiZhuLulu/webFA",
-            "text": "FeiZhuLulu/webFA",
+            "name": "Fei2411/webFA",
+            "text": "Fei2411/webFA",
             "value": "",
             "placeholder": "",
             "input_type": None,
@@ -44,7 +44,7 @@ def _snapshot(*, login: bool = False, degraded: bool = False, loader_id: str = "
             "enabled": True,
             "checked": None,
             "selected": None,
-            "href": "https://github.com/FeiZhuLulu/webFA",
+            "href": "https://github.com/Fei2411/webFA",
             "actions": ["click", "focus", "follow_link"],
         },
         {
@@ -125,7 +125,7 @@ def _snapshot(*, login: bool = False, degraded: bool = False, loader_id: str = "
         RawAccessibilityNode(
             node_id="ax_link",
             role="link",
-            name="FeiZhuLulu/webFA",
+            name="Fei2411/webFA",
             parent_id="ax_main",
             backend_dom_node_id=102,
         ),
@@ -161,7 +161,7 @@ def _snapshot(*, login: bool = False, degraded: bool = False, loader_id: str = "
             node_type=1,
             node_name="A",
             node_value="",
-            attributes={"href": "https://github.com/FeiZhuLulu/webFA"},
+            attributes={"href": "https://github.com/Fei2411/webFA"},
             bounds=(10.0, 60.0, 200.0, 24.0),
             clickable=True,
         ),
@@ -174,7 +174,7 @@ def _snapshot(*, login: bool = False, degraded: bool = False, loader_id: str = "
         focused_element_id="el_search",
         viewport=BrowserViewport(width=1280, height=720),
         tabs=[BrowserTab(id="tab_1", url=url, title="Repository search", active=True)],
-        visible_text="Login Password" if login else "Repository results FeiZhuLulu/webFA",
+        visible_text="Login Password" if login else "Repository results Fei2411/webFA",
         content_blocks=[
             {
                 "id": "block_heading",
