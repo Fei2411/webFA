@@ -28,7 +28,7 @@ def test_distribution_metadata_positions_webfa_as_external_agent_runtime():
     project = pyproject["project"]
 
     assert "internet Runtime for external Agents" in project["description"]
-    assert project["urls"]["Repository"] == "https://github.com/FeiZhuLulu/webFA.git"
+    assert project["urls"]["Repository"] == "https://github.com/Fei2411/webFA.git"
     assert project["scripts"] == {
         "webfa": "apps.runtime.cli:main_webfa",
         "webfa-runtime": "apps.runtime.cli:main_runtime",
